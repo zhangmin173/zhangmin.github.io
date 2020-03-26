@@ -1,6 +1,7 @@
 ---
 title: 跨域和跨页面通信
 date: 2019-03-18 19:50:07
+description: window上postMessage 解决跨域和跨页面通信的问题
 categories:
 - javascript
 tags:

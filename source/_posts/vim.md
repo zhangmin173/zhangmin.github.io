@@ -1,6 +1,7 @@
 ---
 title: vim 基本操作
 date: 2019-04-23 14:41:16
+description: vim的基本指令记录
 categories:
   linux
 tags:

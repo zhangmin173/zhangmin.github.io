@@ -1,6 +1,7 @@
 ---
 title: XMLHttpRequest 对象
 date: 2019-04-01 18:05:02
+description: XMLHttpRequest 对象用于在后台与服务器交换数据
 categories:
 - javascript
 tags:

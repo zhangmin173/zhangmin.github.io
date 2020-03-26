@@ -1,6 +1,7 @@
 ---
 title: window 对象解读（1）
 date: 2019-03-15 15:34:34
+description: 今日解读：name closed open close
 categories:
 - javascript
 tags:

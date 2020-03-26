@@ -1,6 +1,7 @@
 ---
 title: window 对象解读（2）
 date: 2019-03-15 16:23:48
+description: window上的各种尺寸
 categories:
 - javascript
 tags:

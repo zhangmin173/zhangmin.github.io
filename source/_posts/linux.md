@@ -1,6 +1,7 @@
 ---
 title: 服务器上的基本操作 
 date: 2019-04-02 09:03:37
+description: linux服务器上的常用指令记录
 categories:
 - Linux
 tags:

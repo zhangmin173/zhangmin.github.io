@@ -1,11 +1,11 @@
 ---
-title: html
+title: html语义类标签
 date: 2019-03-13 11:08:42
+description: HTML 是构成 Web 世界的一砖一瓦，通过一套标记标签来描述网页的含义和结构
 categories:
 - HTML
 tags:
 - HTML
-- 语义类
 ---
 
 可能大家都会觉得HTMl天天写，是很初级的内容。其实在我看来，并不简单，是典型的“入门容易，精通困难”。

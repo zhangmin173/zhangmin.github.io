@@ -1,6 +1,7 @@
 ---
 title: 重新认识 window 对象
 date: 2019-03-15 15:04:16
+description: window 对象集合
 categories:
 - javascript
 tags:

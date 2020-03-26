@@ -1,6 +1,7 @@
 ---
 title: 定时任务
 date: 2019-03-18 10:33:40
+description: window上的定时任务
 categories:
 - javascript
 tags:

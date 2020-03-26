@@ -1,6 +1,7 @@
 ---
 title: Array 对象
 date: 2019-03-22 10:24:20
+description: jvascript中的数组方法
 categories:
 - javascript
 tags:

@@ -1,6 +1,7 @@
 ---
 title: mysql 基本指令和操作
 date: 2019-03-28 14:49:04
+description: mysql 的基本指令和操作
 categories:
 - mysql
 tags:
