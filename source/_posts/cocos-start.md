@@ -34,3 +34,7 @@ cocos的核心就是组件，通过不同的组件，赋予node不同的功能�
 
 ![节点树](./cocos-start/render.jpg)
 
+## 整体设计
+
+![设计](./cocos-start/ces.jpg)
+
